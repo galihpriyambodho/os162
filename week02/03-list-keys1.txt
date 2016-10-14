@@ -1,0 +1,10 @@
+/home/fasilkom/mahasiswa/g/galih.priyambodho/.gnupg/pubring.gpg
+---------------------------------------------------------------
+pub   4096R/ADD77952 2016-10-14 [expires: 2017-04-12]
+uid                  Galih Priyambodho (ez os!) <galih.priyambodho@ui.ac.id>
+sub   4096R/592FB4FE 2016-10-14 [expires: 2017-04-12]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2017-03-11]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2017-03-11]
+
